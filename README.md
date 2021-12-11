@@ -2,7 +2,9 @@
 
 En este manual encontrará lo siguiente: 
 
-> [*Tarea 1:ejercicio 1.10.3 Plant-Pollinator Networks, página 52, en el texto---Computing Skills for Biologists*] (https://github.com/rossanaparra/Tarea-1_Rossana-Parra)  Realizado por: Rossana Parra 
+> [*Tarea 1:ejercicio 1.10.3 Plant-Pollinator Networks, página 52, en el texto---Computing Skills for Biologists*] (https://github.com/rossanaparra/Tarea-1_Rossana-Parra)  Realizado por: Rossana Parra
+
+###  Instrucción 
 
 ###  Comente la acción que realiza cada una de las instrucciones/comandos de netsize.sh, netsizeall.sh .   
 
