@@ -15,3 +15,4 @@ En este manual encontrará lo siguiente:
 ### En el repositorio de Github genere un archivo README.md donde se explique la actividad; utilice: títulos, listados, figuras.  
 
 ### Copie y pegue el enlace de su repositorio donde se revisará sus archivos y el control de versión. 
+
