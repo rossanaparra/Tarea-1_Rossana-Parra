@@ -1,16 +1,14 @@
 > [*Comente la acción que realiza cada una de las instrucciones/comandos de netsize.sh, netsizeall.sh*]
 
+Para ello se va a ocupar cd ../../ para salir de la carperta para así ubicarnos en el directorio -raiz 
+luego con cd documentos nos ubicamos  en  "Saavedra2013"
+el cat nos sirve  para copiar e imprimir el contenido de los archivos de lo que acabamos de ubicar
+Con head se observa que enla primera fila del documento  "n10"  en  "Saavedra2013" 
+con el comando "tr" nos permite borrar los espacio que hay entre los caracteres 
+con "tr -d"  permite borrar el espacio final 
+
 > [*Código*]
 
-$ bash netsize.sh ../data/Saavedra2013/n1.txt
-Filename: ../data/Saavedra2013/n1.txt
-Number of rows: 97
-Number of columns: 80
-
-se usa cd ../../ para salir de  la carpeta y finalmente ubicarnos  en el directorio raiz
-Luego con cd documents nos ubicamos en saavedra2013
-el cat nos sirve para copiar  imprimir el contenido de los archivos 
-y con head vemos la primera fila del doc n10 en saavedra con tr borramos los espacios entre los caracteres y con tr -d siguiente borramos el espacio final 
 cd ../../
 cd Documents/CSB-master/unix/data/Saavedra2013
 cat ../saavedra2013/n10.txt | wc –l
